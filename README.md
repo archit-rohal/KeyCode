@@ -1,4 +1,4 @@
-# KeyCode
+### KeyCode
 Project in vanillaJS to get JS event KeyCodes 
 
 See Javascript keycodes in realtime by pressing corresponding keys.
