@@ -1,6 +1,5 @@
 # KeyCode
 Project in vanillaJS to get JS event KeyCodes 
-###Keycode mini-project in vanillaJS
 
 See Javascript keycodes in realtime by pressing corresponding keys.
 
